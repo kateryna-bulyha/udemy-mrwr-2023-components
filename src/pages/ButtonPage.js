@@ -1,4 +1,4 @@
-import Button from "./components/Button";
+import Button from "../components/Button";
 import { GoBell, GoCodeOfConduct, GoDatabase } from 'react-icons/go';
 
 
